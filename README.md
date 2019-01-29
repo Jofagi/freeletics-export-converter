@@ -14,4 +14,4 @@ which is a compressed archive containing a `text_data.yml`.
 # Converting
 Extract the data export archive, place `text_data.yml` next to `convert.py` and
 then call `python convert.py` from that directory. The result will be a
-`trainings.csv`. That's it.
+`training.csv`. That's it.
